@@ -34,3 +34,7 @@ function resultReport(marks) {
 }
 
 console.log(resultReport([]));
+console.log(resultReport([98, 87, 67, 91, 92, 33, 87]));
+console.log(resultReport([99, 87, 67, 12, 87]));
+console.log(resultReport([99]));
+console.log(resultReport(100));
